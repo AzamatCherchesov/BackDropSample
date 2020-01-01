@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BackDropSample</string>
+
+    <!--Splash screen values-->
+    <string name="left_launch_banner">BackDrop</string>
+    <string name="right_launch_banner">Sample</string>
+</resources>
